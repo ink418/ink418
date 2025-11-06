@@ -33,6 +33,8 @@ Estudiante de ingeniería en Software con experiencia en proyectos relacionados 
 - Angular Framework
 - JavaScript
 - Curso de Base de datos Oracle Database
+- Universidad Java Cero a Experto (Udemy)
+- Universidad Angula Cero a Experto (Udemy)
 
 ## Proyectos destacados
 - **Aplicación de gestión de álbumes musicales** — CRUD completo con almacenamiento de imágenes.
