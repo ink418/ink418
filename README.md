@@ -10,7 +10,7 @@
 - 📍 Quito, Ecuador
 - 📞 096 186 0587
 - 📧 candresbonilla265@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com) · [GitHub](https://github.com/ink418)
+- 💼 [LinkedIn](www.linkedin.com/in/andres-bonilla-a59449350) · [GitHub](https://github.com/ink418)
 
 ## Acerca de mí
 Estudiante de ingeniería en Software con experiencia en proyectos relacionados con el desarrollo de aplicaciones web y automatización de procesos. Me caracterizo por ser proactivo y orientado a resultados. Busco un entorno que me permita utilizar mis habilidades, aprender continuamente y aportar en el crecimiento de mi equipo.
@@ -30,6 +30,9 @@ Estudiante de ingeniería en Software con experiencia en proyectos relacionados 
 - Programación web
 - Redes avanzadas
 - Redes de computadoras
+- Angular Framework
+- JavaScript
+- Curso de Base de datos Oracle Database
 
 ## Proyectos destacados
 - **Aplicación de gestión de álbumes musicales** — CRUD completo con almacenamiento de imágenes.
@@ -40,12 +43,14 @@ Estudiante de ingeniería en Software con experiencia en proyectos relacionados 
 - Automatización de procesos administrativos mediante scripts en Python.
 - Desarrollo de módulos web para control de inventario y seguimiento de pedidos.
 - Integración de APIs externas para notificaciones y autenticación.
+- Sistema de reservas para habitaciones de hotel.
 
 ## Habilidades técnicas
-- **Lenguajes:** Java, Python, PHP, JavaScript, C++
-- **Frameworks y librerías:** React, Laravel, Spring Boot, Node.js
-- **Bases de datos:** MySQL, PostgreSQL, MongoDB
-- **Herramientas:** Git, Docker, Linux, Figma
+- **Lenguajes:** Java, Python, Kotlin, HTML, Javascript
+- **Frameworks y librerías:** React, android sdk, retrofit, flask
+- **Bases de datos:** react, Android sdk, Retrofit, Flask, MongoDB
+- **Herramientas:** Git, github, figma, Android studio, postman, Linux
+- **Metodologías:** Scrum básico, control de versiones
 
 ## Habilidades blandas
 - Comunicación efectiva
@@ -57,7 +62,7 @@ Estudiante de ingeniería en Software con experiencia en proyectos relacionados 
 
 ## Idiomas
 - Español — Nativo
-- Inglés — Intermedio
+- Inglés — Avanzado
 - Japónes — Básico
 
 ---
